@@ -1,3 +1,2 @@
 # week-planner
-
-A dynamic HTML, CSS, and JavaScript week planner app.
+A dynamic HTML, CSS, and JavaScript group project.
